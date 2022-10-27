@@ -2,4 +2,6 @@ datasets
 images
 .ipynb_checkpoints
 y_train_pred_fille.npz
-20021010_hard_ham.tar.bz2
+hard_ham
+spam
+
